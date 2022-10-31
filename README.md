@@ -28,6 +28,6 @@ SHOW A SCREENSHOT HERE / DEMO DASHBOARD
 
 This project relies on :
 - [Carbon Aware API](https://carbon-aware-api.azurewebsites.net/swagger/index.html)
-- [BoaviztAPI](https://github.com/boavizta/boaviztapi)
-- [Boagent](https://github.com/boavizta/boagent)
-- [Scaphandre](https://github.com/hubblo-org/scaphandre)
+- [BoaviztAPI](https://github.com/boavizta/boaviztapi/tree/greenhack22)
+- [Boagent](https://github.com/boavizta/boagent/tree/greenhack22)
+- [Scaphandre](https://github.com/hubblo-org/scaphandre/tree/greenhack22)
