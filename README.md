@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-    Platypus is a plug and play decision-making tool for reporting, understanding and tackling IT environmental impacts from the infrastructure point of view. Regulate workloads and usage of your IT infrastructures to lower impacts, as Platypuses regulate the temperature of their bodies !
+    Regulate workloads and usage of your IT infrastructures to lower environmental impacts, as Platypuses regulate the temperature of their bodies !
 </h3>
 
 ---
