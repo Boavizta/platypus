@@ -30,4 +30,4 @@ This project relies on :
 - [Carbon Aware API](https://carbon-aware-api.azurewebsites.net/swagger/index.html)
 - [BoaviztAPI](https://github.com/boavizta/boaviztapi)
 - [Boagent](https://github.com/boavizta/boagent)
-- [Scaphandre](https://github.com/hubblo-org/saphandre)
+- [Scaphandre](https://github.com/hubblo-org/scaphandre)
