@@ -4,6 +4,7 @@ services:
   boagent:
     image: ghcr.io/boavizta/boagent:greenhack22
     environment:
+      BOAGENT_DB_PATH: "/app/db/boagent.db"
       BOAVIZTAPI_ENDPOINT: "http://boaviztapi:5000"
       DEFAULT_LIFETIME: 5.0
       HARDWARE_FILE_PATH: "/home/boagent/hardware_data.json"
@@ -22,8 +23,8 @@ services:
       - "/sys:/sys:ro"
       - "powerdata:/app/data:ro"
       - "./db:/app/db"
-      - "../boaviztapi/boaviztapi:/app/boaviztapi"
       - "/etc/crontab:/etc/crontab"
+        #    entrypoint: [ "/usr/bin/test", "-e", "db/boagent.db", "||", "sqlite3", "/app/boagent.db", ";", "/bin/bash", "-c", "cd", "boagent/api", "&&", "uvicorn", "api:app", "--host", "0.0.0.0"]
 
   scaphandre:
     image: hubblo/scaphandre:greenhack22
