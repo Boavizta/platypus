@@ -22,7 +22,7 @@ Go to `http://${SERVER_IP_ADDRES}:8000/web`, SERVER_IP_ADDRESS being either `loc
 
 Start digging your metrics and act on poorly scheduled workloads !
 
-SHOW A SCREENSHOT HERE / DEMO DASHBOARD
+![Capture d’écran du 2022-11-02 08-39-55](https://user-images.githubusercontent.com/906428/199428445-10e71a84-af12-4c25-8079-e617852fa377.png)
 
 ## Dependencies
 
