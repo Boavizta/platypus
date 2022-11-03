@@ -18,7 +18,7 @@ Download the `docker-compose.yaml` file and run :
 
     docker-compose up -d
     
-Go to `http://${SERVER_IP_ADDRES}:8000/web`, SERVER_IP_ADDRESS being either `localhost` if you are on a laptop, or an accessible IP adress on the server.
+Go to `http://${SERVER_IP_ADDRESS}:8000/web`, SERVER_IP_ADDRESS being either `localhost` if you are on a laptop, or an accessible IP adress on the server.
 
 Start digging your metrics and act on poorly scheduled workloads !
 
